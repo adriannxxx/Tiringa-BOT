@@ -6,7 +6,7 @@ const help = (pushname, prefix, temporizador, uptime, hr, tanggal, groupName, us
 
 🧙‍♂️ BOT 🧙‍♂️
 ≫ Prefix:「 ${prefix} 」
-≫ Nome: Tiringa-BOT
+≫ Nome: Adriann Bot
 ≫ Versão 13.0
 ≫ Tempo online: ${temporizador(uptime)}
 ≫ Status: ON✅
@@ -356,7 +356,7 @@ const m18 = (pushname, prefix) => {
 　　　★　*　　🛸　　　°　🚀　　　　°·　
 .　　　•　°★　•
 Caso algum comando esteja errado avise o
-wa.me/+557499510904
+wa.me/+5575991694092
 ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
 ╔════ 🔞 +18 🔞
 ║╭╼╾╼╾╼╾╼╾╼╾╼╾╼╾
